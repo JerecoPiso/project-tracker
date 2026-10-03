@@ -23,7 +23,7 @@
           <div class="flex flex-col gap-1.5">
             <div class="flex items-center justify-between">
               <label for="password" class="text-sm font-medium text-slate-700">Password</label>
-              <a href="#" class="text-xs font-medium text-blue-600 hover:text-blue-700 transition">Forgot password?</a>
+              <!-- <a href="#" class="text-xs font-medium text-blue-600 hover:text-blue-700 transition">Forgot password?</a> -->
             </div>
             <Password
               id="password"
